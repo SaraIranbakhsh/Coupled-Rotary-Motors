@@ -27,5 +27,5 @@ This project builds upon the codebase from jnlucero96/ATP_response, which provid
 
 If you use this code, please cite:
 
-Iranbakhsh & Sivak, “Effects of Symmetry Mismatch on the Performance of Coupled Rotary Molecular Motors”, [].
+Iranbakhsh & Sivak, “Effects of Symmetry Mismatch on the Performance of Coupled Rotary Molecular Motors”, [Phys. Rev. E 112, L052103].
 
