@@ -1,7 +1,9 @@
 
 # Coupled Rotary Molecular Motors Simulation
+This repository contains the simulation and analysis code accompanying a peer-reviewed physics publication.
+From an applied perspective, it demonstrates large-scale data generation and quantitative analysis to detect regime changes in complex systems using statistical and information-theoretic metrics.
+Specifically, the code simulates coupled rotary molecular motors with symmetry mismatch using a Fokker–Planck–based model, numerically solving partial differential equations to analyze fluxes, power output, efficiency, and disruption regimes.
 
-This repository contains the code used to simulate the dynamics of coupled rotary molecular motors with symmetry mismatch under constant and scaling driving forces. The model is based on the Fokker–Planck formulation and numerically solves the resulting partial differential equations to analyze fluxes, power output, efficiency, and disruption regimes.
 ## Overview
 
 The simulations explore how the symmetry mismatch between two coupled rotary motors—modeled after components of ATP synthase (Fo and F1)—affects system performance, including output power and energy transduction efficiency. Both constant and symmetry-scaled driving schemes are considered.
